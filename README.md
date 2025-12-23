@@ -47,7 +47,7 @@
 <br>
 
 
-###🛡️ Stacks:
+##🛡️ Stacks:
 
 ## 🛠️ Core 
 ![Quality Control](https://img.shields.io/badge/Quality_Control-00599C?style=for-the-badge&logo=probot&logoColor=white)
