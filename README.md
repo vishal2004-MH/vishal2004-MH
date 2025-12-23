@@ -7,7 +7,11 @@
     </a>
 </div>
 ---
-
+### <h2 align="center"> Undergrad Student Focusing On Web Development And Data Science </h2>
+- [cite_start]🔭 **I’m currently working on:** Real World Datasets and Full Stack Projects[cite: 11].
+- 🌱 **I’m currently learning:** Machine Learning and Advanced AI/ML.
+- [cite_start]💬 **Ask me about:** Web Scrapping, Tableau, and Mechanical Engineering[cite: 13].
+- [cite_start]📫 **How to reach me:** [vs0332810@gmail.com](mailto:vs0332810@gmail.com)[cite: 1].
 ---
 
 <div>
