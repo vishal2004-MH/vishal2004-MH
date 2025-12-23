@@ -6,8 +6,11 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Mechanical+Engineering+Student;Strategy+%26+Innovation;Full+Stack+Developer;ex+-+Intern+@+Sandvik+Coromant" alt="Typing SVG" />
     </a>
 </div>
-### <h1 align="center"> Hi 👋, I'm Vishal Shinde</h1>
-### <h2 align="center"> Undergrad Student Focusing On Web Development And Machine learning </h2>
+<div align="center">
+  <h1> Hi 👋, I'm Vishal Shinde</h1>
+  <h2> Undergrad Student Focusing On Web Development And Machine learning </h2>
+</div>
+    
 - 🔭 **I’m currently working on:** Project management Management and Full Stack Projects.
 - 🌱 **I’m currently learning:** Supply Chain Management and Advanced AI/ML.
 - 💬 **Ask me about:** Web ,  , and Mechanical Engineering.
