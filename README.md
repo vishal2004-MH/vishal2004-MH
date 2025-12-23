@@ -5,18 +5,19 @@
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Mechanical+Engineering+Student;Strategy+%26+Innovation;Full+Stack+Developer;ex+-+Intern+@+Sandvik+Coromant" alt="Typing SVG" />
     </a>
+
+   <h1 align="center"> Hi 👋, I'm Vishal Shinde</h1>
 </div>
----
-### <h2 align="center"> Undergrad Student Focusing On Web Development And Data Science </h2>
-- [cite_start]🔭 **I’m currently working on:** Real World Datasets and Full Stack Projects[cite: 11].
+
+### <h2 align="center"> Undergrad Student Focusing On Web Development And Machine learning </h2>
+- 🔭 **I’m currently working on:** Real World Datasets and Full Stack Projects.
 - 🌱 **I’m currently learning:** Machine Learning and Advanced AI/ML.
-- [cite_start]💬 **Ask me about:** Web Scrapping, Tableau, and Mechanical Engineering[cite: 13].
-- [cite_start]📫 **How to reach me:** [vs0332810@gmail.com](mailto:vs0332810@gmail.com)[cite: 1].
+- 💬 **Ask me about:** Web Scrapping, Tableau, and Mechanical Engineering.
+- 📫 **How to reach me:** [vs0332810@gmail.com](mailto:vs0332810@gmail.com),[vishalshinde8007@outlook.com](mailto:vishalshinde8007@outlook.com).
 ---
 
 <div>
   <h2>🌐 Socials:</h2>
-  
   <a href="https://linkedin.com/in/vishal-shinde-744788290">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
