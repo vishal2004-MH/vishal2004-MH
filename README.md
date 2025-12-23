@@ -14,37 +14,8 @@
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
-
-<div align="center">
-  <h2>🚀 Projects & Goals</h2>
-</div>
-
-- [cite_start]🔭 **Current Focus:** Developing high-performance **Full Stack Web Applications**[cite: 11].
-- 🌱 **Learning Path:** Diving deep into **Advanced AI/ML** and its industrial applications.
-- [cite_start]💬 **Expertise:** Ask me about **Strategy, Innovation, or Mechanical Engineering**[cite: 5, 29].
-- [cite_start]⚡ **Fun Fact:** I am passionate about how **AI and Automation** can optimize modern manufacturing[cite: 21, 30].
-
 ---
 
-<div align="center">
-  <h2>💼 Professional Experience</h2>
-</div>
-
-#### **🚀 Intern | [cite_start]Sandvik Coromant, Pune** *Sep 2025 – Dec 2025* [cite: 16, 20]
-- [cite_start]🛠️ **Workflow Optimization:** Streamlined production using **Lean Manufacturing** and **Work Study** principles[cite: 7, 21].
-- [cite_start]📈 **Results:** Achieved a **15% reduction in changeover time** through process innovation[cite: 21].
-- [cite_start]📦 **Inventory:** Managed **ERP/Excel** systems ensuring **99% material availability** across key lines[cite: 22].
-- [cite_start]**Skills:** `Lean` `Six Sigma` `ERP` `Production Planning` [cite: 7, 21]
-
-#### **🛠️ Quality Inspector | [cite_start]Drivesys Systems Pvt Ltd** *Jan 2025 – Feb 2025* [cite: 23, 24]
-- [cite_start]🔍 **Inspection:** Led in-process and final inspections to ensure **100% adherence** to specifications[cite: 25, 26].
-- [cite_start]🛡️ **Quality Assurance:** Diagnosed root causes of non-compliance to maintain zero-defect standards[cite: 25].
-- [cite_start]**Skills:** `QC` `QA` `Mechanical Inspection` `CMM` [cite: 6, 27]
-
----
-
-### 🛠 Tech Stack
----
 
 ## 🛠️ Core Engineering Skills
 ---
