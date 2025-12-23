@@ -1,3 +1,4 @@
+
 # Hi 👋, I'm Vishal Shinde
 
 ### Intern @ Sandvik Coromant | Mechanical Engineering | Strategy & Innovation
