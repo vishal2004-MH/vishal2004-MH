@@ -42,7 +42,7 @@
 
 
 
-### ⚙️ Featured Academic Project
+### What are my featured projects? <img src="https://user-images.githubusercontent.com/99719265/222153230-7756628c-4daf-4d16-9f06-e52ac3955942.gif"/>
 ---
 [cite_start]**Design and Fabrication of Solenoid Engine (Mini)** [cite: 29]
 - [cite_start]Modeled and built a working prototype demonstrating electromagnetic motion to innovate in engine design[cite: 30].
