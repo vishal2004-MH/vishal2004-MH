@@ -21,6 +21,16 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+## 🛠 Tech Stack
+**Design & Engineering:**
+![AutoCAD](https://img.shields.io/badge/AutoCAD-221E1F?style=for-the-badge&logo=autodesk&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-CC1F1F?style=for-the-badge&logo=solidworks&logoColor=white)
+
+**Programming & Data:**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 ## GitHub Stats
 ![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishal2004-MH&show_icons=true&theme=dark)
 <!--
