@@ -17,7 +17,6 @@
 
 
 ### 🔭 Current Projects & Goals
----
 - 🔭 I’m currently working on **Full Stack Web Development**
 - 🌱 I’m currently learning **Advanced Core Tech & Mechanical Design**
 - 💬 Ask me about **Strategy, Innovation, or Engineering**
@@ -27,7 +26,6 @@
 
 
 ### 🔭 Experience & Current Focus
----
 - [cite_start]🚀 **Intern @ Sandvik Coromant, Pune** (Sep 2025 – Dec 2025) [cite: 16, 20]
     - [cite_start]Streamlined production workflows using **Lean Manufacturing** and **Work Study** principles.
     - [cite_start]Achieved a **15% reduction in changeover time** and managed inventory with **99% material availability**[cite: 21, 22].
