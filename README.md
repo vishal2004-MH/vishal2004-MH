@@ -17,22 +17,29 @@
 ---
 ---
 
-<div align="center">
-  <h2>🌐 Socials:</h2>
+---
+
+<div>
+  <h2>🌐 Connect with Me</h2>
   
   <a href="https://linkedin.com/in/vishal-shinde-744788290">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/your-instagram-id">
+
+  <a href="https://www.instagram.com/er_vishalds/?next=%2F">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://facebook.com/your-facebook-id">
+
+  <a href="https://www.facebook.com/profile.php?id=100065714700432">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://leetcode.com/your-leetcode-id">
+
+  <a href="https://leetcode.com/u/vishal_7275/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </div>
+
+---
 
 ---
 
