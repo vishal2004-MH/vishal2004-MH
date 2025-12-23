@@ -43,7 +43,7 @@
 
 
 
-## 🛠️ Core 
+## 💎 Core 
 ![Quality Control](https://img.shields.io/badge/Quality_Control-00599C?style=for-the-badge&logo=probot&logoColor=white)
 ![Lean Manufacturing](https://img.shields.io/badge/Lean_Manufacturing-FF8C00?style=for-the-badge&logo=target&logoColor=white)
 ![Supply Chain](https://img.shields.io/badge/Supply_Chain-4CAF50?style=for-the-badge&logo=box&logoColor=white)
@@ -79,9 +79,7 @@
   <h2>📂<b>What are my featured projects?</b>🚀</h2>
 </div>
 
-- 🔗 **[Web Development](https://github.com/vishal2004-MH/Projects)**
-- 🔗 **[Data Analysis & AI/ML](https://github.com/vishal2004-MH/Projects)**
-- 🔗 **[Mechanical Engineering](https://github.com/vishal2004-MH/Mech-Project/tree/main/mini)**
+🔗 ⌛**[Web Development](https://github.com/vishal2004-MH/Projects)**🔗📈**[Data Analysis & AI/ML](https://github.com/vishal2004-MH/Projects)**🔗🛠️ **[Mechanical Engineering](https://github.com/vishal2004-MH/Mech-Project/tree/main/mini)**
 
 <br>
 <br>
