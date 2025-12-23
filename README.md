@@ -8,12 +8,12 @@
 </div>
 <div align="center">
   <h1> Hi 👋, I'm Vishal Shinde</h1>
-  <h2> Undergrad Student Focusing On Web Development And Machine learning </h2>
+  <h2> Undergrad Student Focusing On Web Development And Operations & Supply Chain </h2>
 </div>
     
 - 🔭 **I’m currently working on:** Project management Management and Full Stack Projects.
-- 🌱 **I’m currently learning:** Supply Chain Management and Advanced AI/ML.
-- 💬 **Ask me about:** Web ,  , and Mechanical Engineering.
+- 🌱 **I’m currently learning:** Machine learning and Deep learning.
+- 💬 **Ask me about:** Web , Project Management , and Mechanical Engineering.
 - 📫 **How to reach me:** [vs0332810@gmail.com](mailto:vs0332810@gmail.com),[vishalshinde8007@outlook.com](mailto:vishalshinde8007@outlook.com).
 
 <br>
