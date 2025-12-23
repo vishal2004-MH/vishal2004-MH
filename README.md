@@ -76,23 +76,12 @@
 <br>
 
 <div>
-  <h2>📂What are my featured projects? 🚀</h2>
+  <h2>📂<b>What are my featured projects?</b>🚀</h2>
 </div>
 
-#### 🌐 Project 1: Web Development (Full Stack)
-- **Description:** Developing end-to-end web applications using the **MERN Stack** (MongoDB, Express, React, Node.js) and **Tailwind CSS**.
-- **Key Features:** Integration of **REST APIs** and responsive UI design.
-- 🔗 **[View Web Project Here](https://github.com/vishal2004-MH/Projects)**
-
-#### 📊 Project 2: Data Analysis & AI/ML
-- **Description:** Analyzing **Real World Datasets** to derive actionable insights using **Python**, **SQL**, and **Tableau**.
-- **Focus:** Applying **Machine Learning** algorithms and data visualization techniques.
-- 🔗 **[View Data Project Here](https://github.com/vishal2004-MH/Projects)**
-  
-#### ⚙️ Project 3: Mechanical Engineering (Solenoid Engine)
-- **Description:** Design and fabrication of a **Mini Solenoid Engine**.
-- **Impact:** Built a working prototype demonstrating **electromagnetic motion** to explore innovations in engine technology.
-- 🔗 **[View Mechanical Project Here](https://github.com/vishal2004-MH/Mech-Project/tree/main/mini)**
+- 🔗 **[Web Development](https://github.com/vishal2004-MH/Projects)**
+- 🔗 **[Data Analysis & AI/ML](https://github.com/vishal2004-MH/Projects)**
+- 🔗 **[Mechanical Engineering](https://github.com/vishal2004-MH/Mech-Project/tree/main/mini)**
 
 <br>
 <br>
