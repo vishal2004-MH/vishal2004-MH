@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="khushi.gif" alt="My Workflow Banner" width="100%">
+  <img src="Vishal.gif" alt="My Workflow Banner" width="100%">
 </div>
 
-# Hi 👋, I'm Vishal Shinde
+
 # Hi 👋, I'm Vishal Shinde
 
 ### Intern @ Sandvik Coromant | Mechanical Engineering | Strategy & Innovation
