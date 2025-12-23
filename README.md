@@ -31,8 +31,21 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+## 🚀 Current Focus
+* 🔭 **Currently working on:** Mechanical design automation.
+* 🌱 **Learning:** Integration of AI in manufacturing.
+* ⚡ **Fun fact:** I enjoy exploring the intersection of Core Tech and Strategy.
+
 ## GitHub Stats
 ![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishal2004-MH&show_icons=true&theme=dark)
+## 📊 My GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal2004-MH&layout=compact&theme=vision-glow" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal2004-MH&theme=vision-glow" />
+</p>
 <!--
 **vishal2004-MH/vishal2004-MH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
