@@ -49,7 +49,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal2004-MH&theme=merko" width="100%" />
 </p>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal2004-MH&theme=vision-glow" width="100%" />
-</p>
