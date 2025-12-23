@@ -72,26 +72,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<br>
-<br>
-
-<div>
-  <h2>📂<b>What are my featured projects?</b>🚀</h2>
-</div>
-
-🔗 ⌛**[Web Development](https://github.com/vishal2004-MH/Projects)**📈**[Data Analysis & AI/ML](https://github.com/vishal2004-MH/Projects)**🛠️ **[Mechanical Engineering](https://github.com/vishal2004-MH/Mech-Project/tree/main/mini)**
-
-<br>
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishal2004-MH&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal2004-MH&layout=compact&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal2004-MH&theme=merko" width="100%" />
-</p>
 ## 💎 Core Mechanical & Operations
 <p align="left">
   <img src="https://img.shields.io/badge/Quality_Control-00599C?style=for-the-badge&logo=probot&logoColor=white" height="35" />
@@ -115,4 +95,25 @@
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="35" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="35" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="35" />
+</p>
+
+<br>
+<br>
+
+<div>
+  <h2>📂<b>What are my featured projects?</b>🚀</h2>
+</div>
+
+🔗 ⌛**[Web Development](https://github.com/vishal2004-MH/Projects)**📈**[Data Analysis & AI/ML](https://github.com/vishal2004-MH/Projects)**🛠️ **[Mechanical Engineering](https://github.com/vishal2004-MH/Mech-Project/tree/main/mini)**
+
+<br>
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishal2004-MH&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal2004-MH&layout=compact&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal2004-MH&theme=merko" width="100%" />
 </p>
