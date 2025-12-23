@@ -49,10 +49,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal2004-MH&theme=vision-glow" width="100%" />
 </p>
 
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishal2004-MH&show_icons=true&theme=vision-glow" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal2004-MH&layout=compact&theme=vision-glow" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishal2004-MH&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal2004-MH&layout=compact&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal2004-MH&theme=merko" width="100%" />
+</p>
 </p>
 
 <p align="center">
