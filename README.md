@@ -25,19 +25,44 @@
 
 ---
 
-### 🛠 Tech Stack
-**Engineering & Design:**
-![AutoCAD](https://img.shields.io/badge/AutoCAD-221E1F?style=for-the-badge&logo=autodesk&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-CC1F1F?style=for-the-badge&logo=solidworks&logoColor=white)
+---
 
-**Programming & Development:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### 🔭 Experience & Current Focus
+- [cite_start]🚀 **Intern @ Sandvik Coromant, Pune** (Sep 2025 – Dec 2025) [cite: 16, 20]
+    - [cite_start]Streamlined production workflows using **Lean Manufacturing** and **Work Study** principles.
+    - [cite_start]Achieved a **15% reduction in changeover time** and managed inventory with **99% material availability**[cite: 21, 22].
+- [cite_start]🛠️ **Quality Inspector @ Drivesys Systems** (Jan 2025 – Feb 2025) [cite: 23, 24]
+    - [cite_start]Led in-process and final inspections to ensure **100% adherence** to product specifications[cite: 25, 26].
+- [cite_start]🌱 **Learning:** Currently diving deeper into **Data Structures & Algorithms (DSA)** and **Advanced Core Tech**[cite: 10, 11].
 
 ---
+### 🛠 Tech Stack
+
+### 🛠 Technical Skills
+[cite_start]**Core Engineering & Industrial Ops:** [cite: 5]
+![Lean Manufacturing](https://img.shields.io/badge/Lean_Manufacturing-orange?style=flat-square) 
+![Quality Control](https://img.shields.io/badge/Quality_Control-blue?style=flat-square) 
+![Inventory Management](https://img.shields.io/badge/Inventory_Management-green?style=flat-square)
+[cite_start]![Supply Chain](https://img.shields.io/badge/Supply_Chain-blueviolet?style=flat-square) [cite: 6, 7]
+
+[cite_start]**Programming & IT:** [cite: 8, 10]
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[cite_start]![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) [cite: 10]
+
+[cite_start]**Full Stack Web Development:** 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+[cite_start]![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+
+---
+
+### ⚙️ Featured Academic Project
+[cite_start]**Design and Fabrication of Solenoid Engine (Mini)** [cite: 29]
+- [cite_start]Modeled and built a working prototype demonstrating electromagnetic motion to innovate in engine design[cite: 30].
 
 
 <p align="center">
