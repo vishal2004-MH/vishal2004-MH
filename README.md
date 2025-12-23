@@ -1,7 +1,6 @@
-<div align="center">
-  <img src="Vishal.gif" alt="My Workflow Banner" width="100%">
-</div>
-
+<p align="center">
+  <img src="Vishal.gif" width="100%">
+</p>
 
 # Hi 👋, I'm Vishal Shinde
 
