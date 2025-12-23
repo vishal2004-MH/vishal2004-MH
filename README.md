@@ -8,6 +8,7 @@
 
    <h1 align="center"> Hi 👋, I'm Vishal Shinde</h1>
 </div>
+
 ### <h1 align="center"> Hi 👋, I'm Vishal Shinde</h1>
 
 ### <h2 align="center"> Undergrad Student Focusing On Web Development And Machine learning </h2>
@@ -15,6 +16,8 @@
 - 🌱 **I’m currently learning:** Machine Learning and Advanced AI/ML.
 - 💬 **Ask me about:** Web Scrapping, Tableau, and Mechanical Engineering.
 - 📫 **How to reach me:** [vs0332810@gmail.com](mailto:vs0332810@gmail.com),[vishalshinde8007@outlook.com](mailto:vishalshinde8007@outlook.com).
+
+
 
 
 <div>
@@ -39,8 +42,8 @@
 
 
 
-
-## 🛠️ Core Engineering Skills
+###🛡️ Stacks:
+## 🛠️ Core 
 ![Quality Control](https://img.shields.io/badge/Quality_Control-00599C?style=for-the-badge&logo=probot&logoColor=white)
 ![Lean Manufacturing](https://img.shields.io/badge/Lean_Manufacturing-FF8C00?style=for-the-badge&logo=target&logoColor=white)
 ![Supply Chain](https://img.shields.io/badge/Supply_Chain-4CAF50?style=for-the-badge&logo=box&logoColor=white)
@@ -63,9 +66,25 @@
 
 
 
-### What are my featured projects? 🚀
-[cite_start]**Design and Fabrication of Solenoid Engine (Mini)** [cite: 29]
-- [cite_start]Modeled and built a working prototype demonstrating electromagnetic motion to innovate in engine design[cite: 30].
+<div>
+  <h2>📂What are my featured projects? 🚀</h2>
+</div>
+
+#### 🌐 Project 1: Web Development (Full Stack)
+- **Description:** Developing end-to-end web applications using the **MERN Stack** (MongoDB, Express, React, Node.js) and **Tailwind CSS**.
+- **Key Features:** Integration of **REST APIs** and responsive UI design.
+- 🔗 **[View Web Project Here]([https://github.com/vishal2004-MH/Projects])**
+
+#### 📊 Project 2: Data Analysis & AI/ML
+- **Description:** Analyzing **Real World Datasets** to derive actionable insights using **Python**, **SQL**, and **Tableau**.
+- **Focus:** Applying **Machine Learning** algorithms and data visualization techniques.
+- 🔗 **[View Data Project Here]([https://github.com/vishal2004-MH/Projects])**
+
+#### ⚙️ Project 3: Mechanical Engineering (Solenoid Engine)
+- **Description:** Design and fabrication of a **Mini Solenoid Engine**.
+- **Impact:** Built a working prototype demonstrating **electromagnetic motion** to explore innovations in engine technology.
+- 🔗 **[View Mechanical Project Here]([https://github.com/vishal2004-MH/Mech-Project/tree/main/mini])**
+
 
 
 <p align="center">
