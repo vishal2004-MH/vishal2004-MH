@@ -38,25 +38,15 @@
 ---
 ### 🛠 Tech Stack
 
-### 🛠 Technical Skills
-[cite_start]**Core Engineering & Industrial Ops:** [cite: 5]
-![Lean Manufacturing](https://img.shields.io/badge/Lean_Manufacturing-orange?style=flat-square) 
-![Quality Control](https://img.shields.io/badge/Quality_Control-blue?style=flat-square) 
-![Inventory Management](https://img.shields.io/badge/Inventory_Management-green?style=flat-square)
-[cite_start]![Supply Chain](https://img.shields.io/badge/Supply_Chain-blueviolet?style=flat-square) [cite: 6, 7]
+## 🛠️ Core Engineering Skills
+- **Industrial Ops:** Lean Manufacturing, Work Study, Production Planning
+- **Quality:** QA/QC, Mechanical Inspection, Basic CMM
+- **Logistics:** ERP, Inventory Management, Supply Chain Coordination
 
-[cite_start]**Programming & IT:** [cite: 8, 10]
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-[cite_start]![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) [cite: 10]
-
-[cite_start]**Full Stack Web Development:** 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-[cite_start]![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+## 💻 IT & Tech Skills
+- **Languages:** Java, C++, Python, JavaScript
+- **Web Dev:** React, Node.js, Express.js, MongoDB, Tailwind CSS
+- **Tools:** Git, GitHub, Data Structures & Algorithms (DSA)
 
 ---
 
