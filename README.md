@@ -3,24 +3,15 @@
 
   <h1>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Mechanical+Engineering+Student;Intern+@+Sandvik+Coromant;Strategy+%26+Innovation+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Mechanical+Engineering+Student;Strategy+%26+Innovation;Full+Stack+Developer;ex+-+Intern+@+Sandvik+Coromant" alt="Typing SVG" />
     </a>
-  </h1>
-
-  <p>
-    <b>Mechanical Engineering | Strategy & Innovation | Core Tech</b>
-  </p>
-
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
----
 ---
 
 ---
 
 <div>
-  <h2>🌐 Connect with Me</h2>
+  <h2>🌐 Socials:</h2>
   
   <a href="https://linkedin.com/in/vishal-shinde-744788290">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
