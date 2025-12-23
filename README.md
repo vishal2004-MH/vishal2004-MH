@@ -79,7 +79,7 @@
   <h2>📂<b>What are my featured projects?</b>🚀</h2>
 </div>
 
-🔗 ⌛**[Web Development](https://github.com/vishal2004-MH/Projects)**🔗📈**[Data Analysis & AI/ML](https://github.com/vishal2004-MH/Projects)**🔗🛠️ **[Mechanical Engineering](https://github.com/vishal2004-MH/Mech-Project/tree/main/mini)**
+🔗 ⌛**[Web Development](https://github.com/vishal2004-MH/Projects)**📈**[Data Analysis & AI/ML](https://github.com/vishal2004-MH/Projects)**🛠️ **[Mechanical Engineering](https://github.com/vishal2004-MH/Mech-Project/tree/main/mini)**
 
 <br>
 <br>
