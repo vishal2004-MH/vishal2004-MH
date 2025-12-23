@@ -8,13 +8,14 @@
 
    <h1 align="center"> Hi 👋, I'm Vishal Shinde</h1>
 </div>
+### <h1 align="center"> Hi 👋, I'm Vishal Shinde</h1>
 
 ### <h2 align="center"> Undergrad Student Focusing On Web Development And Machine learning </h2>
 - 🔭 **I’m currently working on:** Real World Datasets and Full Stack Projects.
 - 🌱 **I’m currently learning:** Machine Learning and Advanced AI/ML.
 - 💬 **Ask me about:** Web Scrapping, Tableau, and Mechanical Engineering.
 - 📫 **How to reach me:** [vs0332810@gmail.com](mailto:vs0332810@gmail.com),[vishalshinde8007@outlook.com](mailto:vishalshinde8007@outlook.com).
----
+
 
 <div>
   <h2>🌐 Socials:</h2>
@@ -35,12 +36,11 @@
   </a>
 </div>
 
----
 
----
+
+
 
 ## 🛠️ Core Engineering Skills
----
 ![Quality Control](https://img.shields.io/badge/Quality_Control-00599C?style=for-the-badge&logo=probot&logoColor=white)
 ![Lean Manufacturing](https://img.shields.io/badge/Lean_Manufacturing-FF8C00?style=for-the-badge&logo=target&logoColor=white)
 ![Supply Chain](https://img.shields.io/badge/Supply_Chain-4CAF50?style=for-the-badge&logo=box&logoColor=white)
@@ -48,7 +48,6 @@
 ![Industrial Operations](https://img.shields.io/badge/Industrial_Operations-607D8B?style=for-the-badge&logo=factory&logoColor=white)
 
 ## 💻 IT & Tech Skills
----
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -65,7 +64,6 @@
 
 
 ### What are my featured projects? 🚀
----
 [cite_start]**Design and Fabrication of Solenoid Engine (Mini)** [cite: 29]
 - [cite_start]Modeled and built a working prototype demonstrating electromagnetic motion to innovate in engine design[cite: 30].
 
