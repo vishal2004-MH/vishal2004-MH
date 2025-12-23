@@ -9,12 +9,7 @@
     
 <br>
 <br>
-
 ### <h1 align="center"> Hi 👋, I'm Vishal Shinde</h1>
-    
-<br>
-<br>
-    
 ### <h2 align="center"> Undergrad Student Focusing On Web Development And Machine learning </h2>
 - 🔭 **I’m currently working on:** Project management Management and Full Stack Projects.
 - 🌱 **I’m currently learning:** Supply Chain Management and Advanced AI/ML.
