@@ -92,12 +92,27 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal2004-MH&theme=merko" width="100%" />
 </p>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishal2004-MH&show_icons=true&theme=radical" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal2004-MH&layout=compact&theme=radical" height="195" />
+## 💎 Core Mechanical & Operations
+<p align="left">
+  <img src="https://img.shields.io/badge/Quality_Control-00599C?style=for-the-badge&logo=probot&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Lean_Manufacturing-FF8C00?style=for-the-badge&logo=target&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Supply_Chain-4CAF50?style=for-the-badge&logo=box&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Inventory_Management-795548?style=for-the-badge&logo=google-sheets&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Industrial_Operations-607D8B?style=for-the-badge&logo=factory&logoColor=white" height="35" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal2004-MH&theme=merko" width="100%" />
+## 💻 IT & Tech Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="35" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" height="35" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="35" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="35" />
 </p>
