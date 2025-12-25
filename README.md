@@ -85,8 +85,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Mechanical+Engineering+Student;Strategy+and+Innovation;Full+Stack+Developer;ex+-+Intern+@+Sandvik+Coromant" alt="Typing SVG" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vishal2004-MH&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishal2004-MHL&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal2004-MH&layout=compact&theme=radical" width="48%" />
 </p>
 
