@@ -3,17 +3,17 @@
 
   <h1>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Mechanical+Engineering+Student;Strategy+%26+Innovation;Full+Stack+Developer;ex+-+Intern+@+Sandvik+Coromant" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Mechanical+Engineer+t;Strategy+%26+Innovation;ex+-+Intern+@+Sandvik+Coromant" alt="Typing SVG" />
     </a>
 </div>
 <div align="center">
   <h1> Hi 👋, I'm Vishal Shinde</h1>
-  <h2> Undergrad Student Focusing On Web Development And Operations & Supply Chain </h2>
+  <h2> Mechanical Engineer | Quality Systems & TQM | Industrial Automation | Strategy & Innovation And Operations & Supply Chain </h2>
 </div>
     
-- 🔭 **I’m currently working on:** Project management Management and Full Stack Projects.
-- 🌱 **I’m currently learning:** Machine learning and Deep learning.
-- 💬 **Ask me about:** Web , Project Management , and Mechanical Engineering.
+- 🔭 **I’m currently working on:** management consultant.
+- 🌱 **I’m currently learning:** Business management.
+- 💬 **Ask me about:** Quality Systems & TQM and Mechanical Engineering.
 - 📫 **How to reach me:** [vs0332810@gmail.com](mailto:vs0332810@gmail.com),[vishalshinde8007@outlook.com](mailto:vishalshinde8007@outlook.com).
 
 <br>
